@@ -1,5 +1,7 @@
 # 1.1.Descrição do JSON
-<details><summary>Does work</summary>
+O JSON pode ser descrito pelas seguinte chaves. 
+Linhas 31-37 em <main.py>
+<details><summary>Chaves JSON</summary>
 
 > - curUTC
 > - locRef
